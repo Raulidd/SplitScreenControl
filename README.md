@@ -1,5 +1,5 @@
 #  SplitScreenControl
-<img width="720" height="405" alt="SplitScreenTest" src="https://github.com/user-attachments/assets/330eff4c-703c-49bd-87fa-b2824ae6901e" />
+<img width="720" height="405" alt="SplitScreenTest" src="https://raw.githubusercontent.com/Raulidd/SplitScreenControl/main/SplitScreenTest.gif" />
 
 **Split-screen multiplayer-style control for Spaceflight Simulator 1.6.0.**
 
